@@ -1,7 +1,5 @@
-'''
-Faça uma função que informe a quantidade de 
-dígitos de uma determinada frase informada.
-'''
+# Faça uma função que informe a quantidade de 
+# dígitos de uma determinada frase informada.
 
 def cont_digitos(x):
     return len(str(x))

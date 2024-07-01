@@ -1,34 +1,5 @@
-'''
-Construir um algoritmo que leia a idade de N pessoas.
-O sistema deve calcular: a média das idades, a menor e a maior idade informada
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Construir um algoritmo que leia a idade de N pessoas.
+# O sistema deve calcular: a média das idades, a menor e a maior idade informada
 
 #variaveis
 idade = 0

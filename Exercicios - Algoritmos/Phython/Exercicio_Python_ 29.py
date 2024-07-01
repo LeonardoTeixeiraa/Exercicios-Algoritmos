@@ -1,32 +1,9 @@
-'''
-Faça um algoritmo que percorre uma lista e exiba na tela o valor mais próximo da média dos valores da lista.
+# Faça um algoritmo que percorre uma lista e exiba na tela o valor mais próximo da média dos valores da lista.
 
 
-Exemplo:
-lista = [2.5, 7.5, 10.0, 4.0] (média = 6.0)
-Valor mais próximo da média = 7.5
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Exemplo:
+# lista = [2.5, 7.5, 10.0, 4.0] (média = 6.0)
+# Valor mais próximo da média = 7.5
 
 lista = [1,2,3,3,3,3,3,4,5,100,150,30]  
 

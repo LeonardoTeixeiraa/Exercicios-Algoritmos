@@ -1,26 +1,11 @@
-'''
-Uma escola está realizando matrículas para um curso aberto à comunidade,
-com limite de 20 vagas. Assumindo que os alunos são cadastrados por computador,
-escreva um algoritmo que:
-Leia a idade e o sexo do aluno;
-Informe que a turma está lotada, quando o número de inscritos atingir a quantidade de vagas;
-Mostre a idade média dos candidatos;
-Mostre a quantidade de mulheres inscritas;
-Mostre os candidatos (homens e mulheres) maiores de idade.
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
+# Uma escola está realizando matrículas para um curso aberto à comunidade,
+# com limite de 20 vagas. Assumindo que os alunos são cadastrados por computador,
+# escreva um algoritmo que:
+# Leia a idade e o sexo do aluno;
+# Informe que a turma está lotada, quando o número de inscritos atingir a quantidade de vagas;
+# Mostre a idade média dos candidatos;
+# Mostre a quantidade de mulheres inscritas;
+# Mostre os candidatos (homens e mulheres) maiores de idade.
 
 #variaveis
 idade = 0

@@ -1,8 +1,5 @@
-'''
-Criar um algoritmo que receba 5 números inteiros,
-armazene em um vetor e depois mostre o vetor na tela.
-
-'''
+# Criar um algoritmo que receba 5 números inteiros,
+# armazene em um vetor e depois mostre o vetor na tela.
 
 #variaveis
 #cont = 0

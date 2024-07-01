@@ -1,45 +1,7 @@
-'''
-Faça um algoritmo que leia 50 valores reais e armazene em um vetor.
-Modifique o vetor de modo que os valores das posições impares sejam
-aumentados em 5%, e os das posições pares sejam aumentados em 2%.
-Imprima depois o vetor resultante
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Faça um algoritmo que leia 50 valores reais e armazene em um vetor.
+# Modifique o vetor de modo que os valores das posições impares sejam
+# aumentados em 5%, e os das posições pares sejam aumentados em 2%.
+# Imprima depois o vetor resultante
 
 #variaveis
 vet1=[0.0]*50

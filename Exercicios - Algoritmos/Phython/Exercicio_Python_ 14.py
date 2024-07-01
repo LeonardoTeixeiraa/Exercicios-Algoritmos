@@ -1,34 +1,13 @@
-'''
-A prefeitura de uma cidade fez uma pesquisa
-entre seus habitantes, coletando dados sobre o
-salário e número de filhos. 		
-Elabore um algoritmo para apresentar:
- a)Média do salário da população;
- b)Média do número de filhos;
- c)Maior salário;
- d)Percentual de pessoas com salário até R$ 100,00.
-O sistema deve ficar solicitando novos dados
-até o usuário mandar parar.
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# A prefeitura de uma cidade fez uma pesquisa
+# entre seus habitantes, coletando dados sobre o
+# salário e número de filhos. 		
+# Elabore um algoritmo para apresentar:
+#  a)Média do salário da população;
+#  b)Média do número de filhos;
+#  c)Maior salário;
+#  d)Percentual de pessoas com salário até R$ 100,00.
+# O sistema deve ficar solicitando novos dados
+# até o usuário mandar parar.
 
 #variaveis
 inf = 1

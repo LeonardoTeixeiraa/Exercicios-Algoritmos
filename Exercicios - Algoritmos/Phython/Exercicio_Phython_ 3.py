@@ -1,17 +1,14 @@
-'''
-Faça um programa que receba o salário de um funcionário,
-calcule e mostre o novo salário desse funcionário,
-acrescido de bonificação e de auxílio escola.
-Salário                               Bonificação
-Até R$ 500,00                         5%
-Entre R$ 500,00 e R$ 1200,00          12%
-Acima de R$ 1200,00                   0%
+# Faça um programa que receba o salário de um funcionário,
+# calcule e mostre o novo salário desse funcionário,
+# acrescido de bonificação e de auxílio escola.
+# Salário                               Bonificação
+# Até R$ 500,00                         5%
+# Entre R$ 500,00 e R$ 1200,00          12%
+# Acima de R$ 1200,00                   0%
 
-Salário                        Auxílio Escola
-Até R$ 600,00                  R$150,00
-Mais que 600,00                R$ 100,00
-
-'''
+# Salário                        Auxílio Escola
+# Até R$ 600,00                  R$150,00
+# Mais que 600,00                R$ 100,00
 
 #variaveis
 sal = 0.0

@@ -1,17 +1,15 @@
-'''
-Desenvolver um algoritmo que solicite o nome e a
-idade de um nadador e imprima na tela o seu nome,
-a sua idade e em qual categoria ele está.
-    idade                 categoria
-    5 a 7                 Infantil A
-    8 a 11                Infantil B
-    12 a 13               Juvenil A
-    14 a 17               Juvenil B
-    18 a >                Adulto
-Caso seja digitado uma idade fora das classes acima,
-informar que o nadador não possui uma categoria válida.
+# Desenvolver um algoritmo que solicite o nome e a
+# idade de um nadador e imprima na tela o seu nome,
+# a sua idade e em qual categoria ele está.
+#     idade                 categoria
+#     5 a 7                 Infantil A
+#     8 a 11                Infantil B
+#     12 a 13               Juvenil A
+#     14 a 17               Juvenil B
+#     18 a >                Adulto
+# Caso seja digitado uma idade fora das classes acima,
+# informar que o nadador não possui uma categoria válida.
 
-'''
 
 #variaveis
 nome_nadador = ""

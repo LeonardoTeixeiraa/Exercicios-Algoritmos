@@ -1,30 +1,11 @@
-// Faça um programa que calcule e
-//mostre a área de um trapézio.
-//Sabe-se que a fórmula para calcular a área do trapézio é:
+// FaÃ§a um programa que calcule e
+//mostre a Ã¡rea de um trapÃ©zio.
+//Sabe-se que a fÃ³rmula para calcular a Ã¡rea do trapÃ©zio Ã©:
 //Area = ((base maior + base menor) * altura)/2
 
 //Aula:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-algoritmo "Calculo área trapézio"
+algoritmo "Calculo Ã¡rea trapÃ©zio"
 var
    base_menor, base_maior, altura, area:real
 
@@ -38,6 +19,6 @@ inicio
 
    area <- ((base_maior + base_menor) * altura)/2
    
-   escreval("A área é: ", area)
+   escreval("A Ã¡rea Ã©: ", area)
 
 fimalgoritmo

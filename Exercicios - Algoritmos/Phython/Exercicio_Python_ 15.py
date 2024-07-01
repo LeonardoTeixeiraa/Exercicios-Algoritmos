@@ -1,46 +1,19 @@
-'''
-Existe 3 candidatos a uma vaga no senado. Os votos serão
- feitos em cartões cada um contendo um voto.
-   Os números de controle do sistema são:
-    - Quem votar no número 1, está vontanto do candidato 1
-    - Quem votar no número 2, está vontanto do candidato 2
-    - Quem votar no número 3, está vontanto do candidato 3
-    - Quem votar no número 0, está vontando em branco
-    - Quem votar no número 4, está votando em nulo
-    - Para sair do sistema e apresentar os resultados deve digitar -1
-
-   O sistema deve solicitar o nome dos três candidatos e associá-los
- aos seus respectivos números(1, 2 ou 3)
-
- Como resultado deve ser apresentado os dados:
-    a)Número e nome do candidato vencedor;
-    b)Número de votos em branco;
-    c)Número de votos nulos;
-    d)E quantos eleitores votoram
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Existe 3 candidatos a uma vaga no senado. Os votos serão
+#  feitos em cartões cada um contendo um voto.
+#    Os números de controle do sistema são:
+#     - Quem votar no número 1, está vontanto do candidato 1
+#     - Quem votar no número 2, está vontanto do candidato 2
+#     - Quem votar no número 3, está vontanto do candidato 3
+#     - Quem votar no número 0, está vontando em branco
+#     - Quem votar no número 4, está votando em nulo
+#     - Para sair do sistema e apresentar os resultados deve digitar -1
+#    O sistema deve solicitar o nome dos três candidatos e associá-los
+#  aos seus respectivos números(1, 2 ou 3)
+#  Como resultado deve ser apresentado os dados:
+#     a)Número e nome do candidato vencedor;
+#     b)Número de votos em branco;
+#     c)Número de votos nulos;
+#     d)E quantos eleitores votoram
 
 #variaveis
 c1 = 0
